@@ -4,6 +4,7 @@ import openai
 
 # Sidebar for navigation and API key input
 api_key = st.sidebar.text_input("Enter your OpenAI API Key:", type="password")
+openai.api_key = api_key
 
 with st.sidebar:
     page = option_menu(
