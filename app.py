@@ -77,18 +77,13 @@ Example 3: If I ask about setting up VPC peering, explain the steps involved, an
                 with st.chat_message(messages["role"]):
                     st.markdown(messages["content"])
 
-        if user_message := st.chat_input("Say something"):
+        if user_message := st.chat_input("Ask me anything AWS-related!"):
             with st.chat_message("user"):
                 st.markdown(user_message)
             st.session_state.message.append({"role": "user", "content": user_message})
             chat = openai.ChatCompletion.create(
                 model="gpt-4o-mini",
                 messages=st.session_state.message,
-                temperature=0.5,
-                max_tokens=1500,
-                top_p=1,
-                frequency_penalty=0,
-                presence_penalty=0
             )
             response = chat.choices[0].message.content
             with st.chat_message("assistant"):
