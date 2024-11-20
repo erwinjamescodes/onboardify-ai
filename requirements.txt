@@ -1,6 +1,12 @@
+openai==0.28
+streamlit
 streamlit_option_menu
 streamlit_extras
-streamlit
-openai==0.28.1
-langchain==0.1.20
-tiktoken==0.6.0
+faiss-cpu
+plotly
+openpyxl
+langchain
+langchain_community
+scipy
+scikit-learn
+PyPDF2

@@ -1,0 +1,51 @@
+User ID,Age,Experience Level,Usage Frequency,Preferred Onboarding Format,Features Used,Engagement Level,Completion Rate (%),Time to Complete Onboarding (min),Total Features Explored,Engagement Time (min/session),Clicks per Session,Drop-off Rate (%),Satisfaction Score,Behavioral Score,Referral Rate (%),Device,Location
+01JD27V455QECS7WM1HTZM1PZG,32,Intermediate,Occasionally,Interactive tutorial,Messaging,High,35,30,3,29,13,46,63,10,13,Desktop,Manila
+01JD27V45AEMDZG3AYWNG0FKME,34,Advanced,Occasionally,Video,Profile,Low,83,29,3,29,13,34,63,24,24,Tablet,Iloilo
+01JD27V4HJ4K12ZRNM1C4M29BY,33,Advanced,Daily,Text-based instructions,Profile,High,99,30,6,23,6,24,73,23,13,Mobile,Iloilo
+01JD27V4HNJCMZ75NHXNDPK983,37,Intermediate,Weekly,Interactive tutorial,Dashboard,Low,36,21,6,19,9,24,75,17,9,Mobile,Cagayan de Oro
+01JD27V4HRPHW4QDX3RTV6Z6RF,28,First-time,Daily,Video,Profile settings,Low,33,24,2,28,14,28,80,10,4,Mobile,Iloilo
+01JD27V4HVFNHXMHVQT6W4V2N8,32,First-time,Daily,Video,Profile settings,High,60,29,2,28,13,28,68,6,13,Tablet,Iloilo
+01JD27V4HYAXP8YSAPPZ49BA1K,40,Advanced,Weekly,Text-based instructions,Reports,Medium,35,13,2,13,15,16,61,20,0,Desktop,Manila
+01JD27V4HZMRR9Y5ENDZ9C7X66,18,First-time,Weekly,Video,Messaging,High,87,29,4,25,10,19,88,13,12,Mobile,Quezon City
+01JD27V4J263X4YV6FEEFHQ2AP,19,Advanced,Weekly,Video,Profile,Low,26,22,4,29,7,25,60,17,22,Mobile,Cagayan de Oro
+01JD27V4J42SFHM5K3HH71GYR7,39,First-time,Weekly,Interactive tutorial,Messaging,Medium,41,17,3,10,12,20,69,14,19,Desktop,Cebu
+01JD27V4J6F1SAG62YRADKKTMG,25,Intermediate,Occasionally,Interactive tutorial,Profile,High,94,28,3,24,15,42,76,9,14,Mobile,Iloilo
+01JD27V4J8H8KEFKB8TZA8VDJS,27,Advanced,Occasionally,Interactive tutorial,Dashboard,Low,73,25,2,16,8,9,64,3,3,Mobile,Cagayan de Oro
+01JD27V4J90WJRRN9RZ2Q1E3JA,25,Advanced,Weekly,Text-based instructions,Reports,Low,96,23,2,20,7,30,63,3,1,Tablet,Cebu
+01JD27V4JBN196FGTGNQKY25E8,29,Intermediate,Daily,Video,Profile settings,Low,84,14,4,13,5,43,76,11,20,Mobile,Cagayan de Oro
+01JD27V4JD5CP3J6AQXMXVVRGN,31,First-time,Occasionally,Text-based instructions,Profile,Low,34,21,4,27,13,18,63,18,12,Desktop,Davao
+01JD27V4JG5WAJ6Y0A2Z375B1P,32,Advanced,Weekly,Interactive tutorial,Profile,Medium,58,30,2,30,11,44,87,12,3,Mobile,Cavite
+01JD27V4JKD0WK2TH7081VQ1HR,35,Intermediate,Daily,Text-based instructions,Dashboard,Medium,80,29,1,29,14,28,68,21,4,Mobile,Manila
+01JD27V4JMWFAVWXPMW1EVP41V,32,Advanced,Occasionally,Interactive tutorial,Reports,Low,92,18,1,30,14,47,87,2,19,Mobile,Iloilo
+01JD27V4JP2NKXZ7C6S5BJ60SE,26,Intermediate,Occasionally,Text-based instructions,Profile settings,Medium,94,28,2,18,12,38,76,17,21,Mobile,Quezon City
+01JD27V4JR2TR65X31FR0GCH5Q,22,Advanced,Occasionally,Video,Reports,High,78,22,6,24,5,18,60,20,13,Tablet,Manila
+01JD27V4JTZSYK4N4WM65JTZG8,36,Intermediate,Daily,Video,Messaging,High,39,19,4,29,12,47,68,5,6,Mobile,Cagayan de Oro
+01JD27V4JVRQV3CWY5P6MH03Y8,39,First-time,Weekly,Interactive tutorial,Dashboard,Low,44,25,5,27,12,10,83,22,23,Desktop,Quezon City
+01JD27V4JXFWNW356HJ96X1WP0,18,First-time,Weekly,Video,Messaging,Low,49,30,1,24,15,14,72,19,21,Desktop,Manila
+01JD27V4JZH77G87C4GB5Y1B1D,34,Advanced,Daily,Interactive tutorial,Reports,Medium,42,23,6,25,10,39,63,8,15,Mobile,Palawan
+01JD27V4K23NGV1H3V4H604XJW,29,Intermediate,Weekly,Text-based instructions,Profile,Low,58,21,5,16,11,9,69,20,24,Tablet,Cavite
+01JD27V4K3H6H0B6Y4DTJ1WB4R,20,First-time,Weekly,Text-based instructions,Profile settings,Low,88,23,5,30,9,12,81,11,16,Desktop,Davao
+01JD27V4K5PXJXJVFGV7Q0W0BK,27,Advanced,Weekly,Interactive tutorial,Dashboard,High,67,25,3,26,6,25,82,18,15,Mobile,Cavite
+01JD27V4K7B4H3NTH7J2TBRA41,34,First-time,Occasionally,Video,Reports,Medium,58,18,4,17,15,34,62,5,17,Tablet,Cavite
+01JD27V4K9W87Y3BK2P1MT7E6A,28,First-time,Daily,Text-based instructions,Profile settings,Low,85,18,6,19,13,23,88,11,1,Tablet,Davao
+01JD27V4KB3KHQ2DPESFSM0MYJ,36,First-time,Daily,Text-based instructions,Reports,Medium,57,16,2,29,7,18,67,19,19,Mobile,Cebu
+01JD27V4KCP72VH1SWFN0YAMJ8,27,Intermediate,Weekly,Text-based instructions,Dashboard,High,38,22,2,15,6,27,71,12,13,Mobile,Cagayan de Oro
+01JD27V4KEM7KD2P7J8AYKRQSM,32,Advanced,Occasionally,Interactive tutorial,Dashboard,Medium,84,18,5,25,5,12,88,0,18,Tablet,Cavite
+01JD27V4KGXXNKVEFV3HEBCYN4,20,First-time,Weekly,Interactive tutorial,Profile settings,Medium,45,30,1,26,10,32,87,3,20,Mobile,Cavite
+01JD27V4KKVRZBAPHMA8SY6GY3,29,Advanced,Occasionally,Interactive tutorial,Messaging,High,85,30,2,23,10,35,76,16,13,Tablet,Manila
+01JD27V4KM2A8PZDGR67EK7TAE,18,First-time,Weekly,Video,Profile,Low,99,27,5,24,7,20,73,18,10,Desktop,Palawan
+01JD27V4KPFVNDS5PABRMYAYZE,18,First-time,Daily,Text-based instructions,Reports,Low,65,18,6,22,13,13,63,15,15,Mobile,Iloilo
+01JD27V4KRW7DF180KWV7DN058,19,Advanced,Weekly,Text-based instructions,Messaging,Low,76,11,3,15,13,18,86,12,25,Mobile,Quezon City
+01JD27V4KTQCNPFSZQ01TGRDSB,31,First-time,Occasionally,Interactive tutorial,Profile,High,95,20,6,25,13,32,83,25,12,Desktop,Quezon City
+01JD27V4KXGTHSM68BAMM0V8A1,18,Intermediate,Weekly,Video,Profile settings,High,97,19,2,20,7,10,88,25,20,Tablet,Palawan
+01JD27V4M07PYX9YGYMCSPDJZ6,23,First-time,Weekly,Interactive tutorial,Profile,Medium,77,28,5,20,8,16,78,23,22,Tablet,Cebu
+01JD27V4M25TXYVCVERMYJEZT8,35,Advanced,Weekly,Video,Messaging,Medium,41,30,2,26,11,25,81,11,22,Desktop,Palawan
+01JD27V4M5E9Q882B93E6X9ABM,32,Advanced,Daily,Text-based instructions,Messaging,High,57,29,5,19,6,43,65,6,6,Tablet,Cavite
+01JD27V4M7WKTT0F4TWGX6MTGV,25,First-time,Weekly,Interactive tutorial,Dashboard,High,43,30,1,27,15,29,88,17,17,Tablet,Iloilo
+01JD27V4M8A6V729S5VEW7YBE2,35,Advanced,Occasionally,Text-based instructions,Profile settings,High,23,17,4,11,12,33,60,22,10,Desktop,Quezon City
+01JD27V4MAME6RQQB7YP1RHS9B,27,First-time,Occasionally,Interactive tutorial,Dashboard,Low,57,15,5,27,15,26,85,18,2,Tablet,Davao
+01JD27V4ME971J0F11X93MC4P7,29,First-time,Weekly,Video,Profile settings,Low,86,11,2,25,8,38,63,8,7,Mobile,Quezon City
+01JD27V4MG07P9MYFK6DJZFNV1,35,First-time,Daily,Interactive tutorial,Dashboard,High,58,17,4,28,9,32,89,17,6,Mobile,Quezon City
+01JD27V4MJ41H2FJBKYSR7326X,20,Intermediate,Occasionally,Interactive tutorial,Reports,Medium,38,21,6,24,7,18,88,22,6,Mobile,Manila
+01JD27V4MMYVGAFKJFNZT8KNCG,24,Advanced,Occasionally,Interactive tutorial,Profile,High,40,17,3,29,5,37,84,13,11,Tablet,Manila
+01JD27V4MPZSA3RD6AETZCJKQD,19,Advanced,Daily,Text-based instructions,Messaging,Medium,60,21,3,25,15,9,86,12,0,Mobile,Davao
